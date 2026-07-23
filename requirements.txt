@@ -1,0 +1,6 @@
+boto3
+requests
+mlflow
+chainlit
+jupyter
+nbconvert
