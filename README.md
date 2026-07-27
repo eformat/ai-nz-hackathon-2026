@@ -30,7 +30,7 @@ Helpful collection of getting started notebooks.
 
 ![images/open-workbench.png](images/open-workbench.png)
 
-8. Clone this git repo and use the Notebooks.
+8. Clone this git repo https://github.com/eformat/ai-nz-hackathon-2026 and use the Notebooks.
 
 ![images/clone-repo.png](images/clone-repo.png)
 
