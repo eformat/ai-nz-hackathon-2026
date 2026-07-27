@@ -32,7 +32,7 @@ Helpful collection of getting started notebooks.
 
 8. Clone this git repo and use the Notebooks.
 
-![images/workbench-details.png](images/workbench-details.png)
+![images/clone-repo.png](images/clone-repo.png)
 
 ## Notebooks in this repo
 
