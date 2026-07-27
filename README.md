@@ -28,7 +28,7 @@ Helpful collection of getting started notebooks.
 
 7. Open workbench.
 
-![images/workbench-details.png](images/workbench-details.png)
+![images/open-workbench.png](images/open-workbench.png)
 
 8. Clone this git repo and use the Notebooks.
 
