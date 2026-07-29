@@ -45,3 +45,5 @@ Helpful collection of getting started notebooks.
 [04-deploy-container-app.ipynb - Deploy a simple container app](04-deploy-container-app.ipynb)
 
 [05-deploy-dockerfile-app.ipynb - Build and deploy a container app](05-deploy-dockerfile-app.ipynb)
+
+[06-basic-rag.ipynb - Basic RAG with embeddings and Qdrant](06-basic-rag.ipynb)

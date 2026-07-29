@@ -1,6 +1,13 @@
 boto3
 requests
-mlflow
+openai
+rich
+mlflow[kubernetes]
 chainlit
+httpx
+websockets
+uvicorn
+qdrant-client
+pypdf
 jupyter
 nbconvert
